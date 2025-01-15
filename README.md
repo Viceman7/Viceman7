@@ -12,7 +12,7 @@
 
 
   # About me
- <p>
+ <p align="center">
 what i'm currently gaming
 
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
