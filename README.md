@@ -4,7 +4,13 @@
 
   # About me
 
+  <div align:center>
+
+what i'm currently gaming
+
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
+    
+  </div>
 
 <!--
 **Viceman7/Viceman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
