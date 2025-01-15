@@ -16,11 +16,9 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;">
     
-   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
+  ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
     
-    <p>What i'm currently gaming</p>  
-
-  </div>
+  What i'm currently gaming
 
   <div style="text-align: right;">
    what i'm currently listening to
