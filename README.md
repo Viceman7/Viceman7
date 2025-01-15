@@ -16,12 +16,12 @@
 <table  style="display: flex; justify-content: space-between;">
   <tr>
     <td align="left">
-What i'm currently gaming
+<h3 align="center">What i'm currently gaming</h3>
 
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
     
   <td align="right">
-    What i'm currently listening to
+   <h3 align="center">What i'm currently listening to</h3>
 
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&redirect=true)
    
