@@ -1,6 +1,6 @@
   # Hello, i'm Victor
   
-<h3>What i'm currently learning and working with</h3>
+<h3 align="center">What i'm currently learning and working with</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
