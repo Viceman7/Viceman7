@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Victor Elias, a Frontend programmer from Norway</h1>
+<h1 align="center">Hello, my name is Victor Elias, a Frontend programmer</h1>
   
 <h3 align="center">What i'm currently learning and working with</h3>
 <p align="center">
