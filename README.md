@@ -34,7 +34,7 @@
     Cook food
 
     Watch movies
-    </p>
+  </p>
   </tr>
 </table>
 
