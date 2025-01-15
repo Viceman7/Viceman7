@@ -20,7 +20,7 @@
 
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
 
-  <table>
+  <table float="right">
   <td align="right">
    <h3 align="center">What i'm currently listening to</h3>
 
