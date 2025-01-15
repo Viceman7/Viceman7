@@ -13,13 +13,14 @@
 
   # About me
 
-<table  style="display: flex; justify-content: space-between;">
+<table>
   <tr>
     <td align="left">
 <h3 align="center">What i'm currently gaming</h3>
 
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
-    
+
+  <table>
   <td align="right">
    <h3 align="center">What i'm currently listening to</h3>
 
