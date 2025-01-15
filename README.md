@@ -27,7 +27,7 @@
 
   <td align="right"> 
     <h3 align="center">Other activities i do</h3>
-<p align text="left">
+<p align-text="left">
   3D Modelling
 
   Animation
