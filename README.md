@@ -23,7 +23,6 @@
   </div>
 
   <div style="text-align: right;">
-    <!-- Content for the right side -->
     <p>what i'm currently listening to</p>
 
   
