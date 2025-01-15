@@ -31,10 +31,7 @@
 
       Cook good food
 
-      Hangout on discord
-
-      
-    </p>
+      Hangout on discord</p>
   </tr>
 </table>
 
