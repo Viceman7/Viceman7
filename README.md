@@ -27,6 +27,14 @@
 
   <td align="right"> 
     <h3 align="center">Other activities i do</h3>
+
+  <p> 
+    Workout
+    
+    Cook food
+
+    Watch movies
+    </p>
   </tr>
 </table>
 
