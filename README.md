@@ -25,9 +25,9 @@
 
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&redirect=true)
 
-  <td align="right"> 
+  <td align="left"> 
     <h3 align="center">Other activities i do</h3>
-<p align-text="left">
+<p>
   3D Modelling
 
   Animation
