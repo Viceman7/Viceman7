@@ -27,11 +27,13 @@
 
   <td align="right"> 
     <h3 align="center">Other activities i do</h3>
-    <p>
-      Workout
-      Cook
-      Hangout on discord
-    </p>
+<p>
+  Workout
+
+  Cook good food
+
+  Hangout on discord
+</p>
   </tr>
 </table>
 
