@@ -26,12 +26,12 @@
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&redirect=true)
 
   <td align="right"> 
-    <h3 align="center">Other activities i do</h3> <p>
+    <h3 align="center">Other activities i do</h3>
+    <p>
       Workout
-
-      Cook good food
-
-      Hangout on discord</p>
+      Cook
+      Hangout on discord
+    </p>
   </tr>
 </table>
 
