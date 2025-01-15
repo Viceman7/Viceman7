@@ -1,4 +1,4 @@
-  <h1 align="center">Hello, my name is Victor Elias, a Frontend programmer from Norway</h1>
+<h1 align="center">Hello, my name is Victor Elias, a Frontend programmer from Norway</h1>
   
 <h3 align="center">What i'm currently learning and working with</h3>
 <p align="center">
@@ -12,14 +12,18 @@
 
 
   # About me
-  
-what i'm currently gaming
 
-  ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">
+    <!-- Content for the left side -->
+    <p>What i'm currently gaming</p>  
+    ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
+  </div>
   
 what i'm currently listening to
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=viceman7&redirect=true)
+
 <!--
 **Viceman7/Viceman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
