@@ -27,7 +27,7 @@
 
   <td align="right"> 
     <h3 align="center">Other activities i do</h3>
-<p align="center">
+<p align="left">
   Workout
 
   Cook good food
