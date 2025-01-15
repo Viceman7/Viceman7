@@ -15,8 +15,8 @@
 
 <table  style="display: flex; justify-content: space-around;">
   <tr>
-    <h3 align="center">What i'm currently gaming</h3>
     <td align="left">
+    <h3 align="center">What i'm currently gaming</h3>
 
   ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
 
