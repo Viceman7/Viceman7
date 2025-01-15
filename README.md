@@ -1,5 +1,9 @@
   # Hello, i'm Victor
 
+  A frontend programmer that has experience with HTML, CSS, JavaScript, React and Figma.
+
+  # About me
+
 <!--
 **Viceman7/Viceman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
