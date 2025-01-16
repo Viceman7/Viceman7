@@ -25,8 +25,7 @@
       Resident evil 4
 
       Dota 2
-      
-    </p>
+  </p>
 
   <td align="middle">
    <h3 align="center">What i'm currently listening to</h3>
