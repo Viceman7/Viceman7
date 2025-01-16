@@ -18,7 +18,6 @@
     <td align="left">
     <h3 align="center">What i'm currently gaming</h3>
 
-  ![Vice](https://steam-stat.vercel.app/api?profileName=BeautifulRoses)
 
   <td align="middle">
    <h3 align="center">What i'm currently listening to</h3>
