@@ -17,7 +17,16 @@
   <tr>
     <td align="left">
     <h3 align="center">What i'm currently gaming</h3>
+    <p>
+      Marvel Rivals
 
+      Path of Exile 2
+
+      Resident evil 4
+
+      Dota 2
+      
+    </p>
 
   <td align="middle">
    <h3 align="center">What i'm currently listening to</h3>
