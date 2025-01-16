@@ -17,7 +17,7 @@
   <tr>
     <td align="left">
     <h3 align="center">What i'm currently gaming</h3>
-    <p>
+  <p>
       Marvel Rivals
 
       Path of Exile 2
